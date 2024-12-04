@@ -1,0 +1,23 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif; /* Mudando a fonte */
+    background-color: #f8f9fa; /* Mudando a cor de fundo */
+}
+
+.container {
+    padding: 30px; /* Aumentando o padding */
+    background-color: #e0e0e0; /* Mudando a cor de fundo */
+    border-radius: 8px; /* Adicionando bordas arredondadas */
+}
+
+.btn {
+    background-color: #28a745; /* Mudando a cor do botão para verde */
+    color: white;
+    border: none;
+    padding: 12px 24px; /* Aumentando o padding do botão */
+    cursor: pointer;
+    transition: background-color 0.3s; /* Adicionando uma transição suave */
+}
+
+.btn:hover {
+    background-color: #218838; /* Mudando a cor do botão ao passar o mouse */
+}
